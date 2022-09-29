@@ -6,23 +6,27 @@ More info on Onyx coin here -> https://github.com/ONYXcore/onyx
 
 ## Usage
 
-Build
+### Update
+
+Update the Dockerfile variables to reflect your own wallet, server, etc. 
+
+### Build
 ```
 docker build -t onyxminer . 
 ```
 
-Run
+### Run
 ```
 docker run onyxminer 
 ```
 
-Push 
+### Push 
 ```
 docker push -t onyxminer 
 ```
 
-Deploy
+### Deploy
 ?
 
-Profit...
+### ...Profit
 
